@@ -27,4 +27,5 @@ Support : [Discord](https://discord.gg/bgzWk3eSnp)
 
 - /\ Information : Particles or certain models are no longer available, so modify them as you wish !
 
+<h3 align="center">If you like this repository don't hesitate to give it a star !</h3>
 <h1 align="center">There you go and be happy !</h1>
